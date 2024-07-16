@@ -1,1 +1,11 @@
-# banco_dados_conectado_sql_plot
+# BANCO DE DADOS CONECTADO VIA PYTHON E PLOT GRÁFICO
+
+**Desenvolvino no Google Colaboratory**
+
+[Fonte de dados](https://www.sqlitetutorial.net/sqlite-sample-database/?authuser=0)
+
+## Bibliotecas utilizadas
+-  Sqlite3;
+-  Pandas; e
+-  Matplotlib.
+
